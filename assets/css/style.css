@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    padding: 200px;
+}
+.containter{
+    border: 1px solid black;
+    padding: 100px;
+    text-align: center;
+}
+.containter button {
+    margin: 5px;
+    padding: 15px;
+    width: 200px;
+    background: white;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    border-radius: 25px;
+    border: none;
+    outline: none;
+}
