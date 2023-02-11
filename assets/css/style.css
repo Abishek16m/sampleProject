@@ -4,11 +4,13 @@
 }
 body{
     padding: 200px;
+    background: black;
 }
 .containter{
     border: 1px solid black;
     padding: 100px;
     text-align: center;
+    background: white;
 }
 .containter button {
     margin: 5px;
